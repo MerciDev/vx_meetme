@@ -29,3 +29,7 @@ The goal of this script is to improve player interactions by offering a simple a
 *   **QBCore** — Main framework used for player data management, events, and server-client communication.
 *   **Ox Target** — Targeting system that allows creating interaction zones for players in the world.
 *   **Ox Lib** — Utility library that simplifies client-server communication, UI elements, notifications, and more.
+
+## Images
+
+<img src="https://repolaunch.vercel.app/assets/img/yt.webp" alt="" align="center" width="auto" height="auto">
