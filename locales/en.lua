@@ -34,8 +34,8 @@ return {
     ['meetme_list.delete_dialog'] = 'Delete %s',
     ['meetme_list.input_label'] = 'If you are sure, type DELETE',
     ['meetme_list.input_placeholder'] = 'DELETE',
-    ['meetme_list.no_known.label'] = 'No Known Available',
-    ['meetme_list.no_known.description'] = 'You haven\'t added anyone to your list yet',
+    ['meetme_list.no_contacts.label'] = 'No Known Available',
+    ['meetme_list.no_contacts.description'] = 'You haven\'t added anyone to your list yet',
 
     ['meetme_config_do.title'] = 'Interaction Settings',
     ['meetme_config_do.option1.label'] = 'Change Inspection Message',
