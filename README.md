@@ -34,14 +34,14 @@ The goal of this script is to improve player interactions by offering a simple a
 
 ## Images
 
-# --- Meet Persons ---
+### --- Meet Persons ---
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/2.png?raw=true" alt="" align="center" width="auto" height="auto" />
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/3.png?raw=true" alt="" align="center" width="auto" height="auto" />
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/4.png?raw=true" alt="" align="center" width="auto" height="auto" />
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/5.png?raw=true" alt="" align="center" width="auto" height="auto" />
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/6.png?raw=true" alt="" align="center" width="auto" height="auto" />
 
-# --- Config Menu ---
+### --- Config Menu ---
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/7.png?raw=true" alt="" align="center" width="auto" height="auto" />
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/8.png?raw=true" alt="" align="center" width="auto" height="auto" />
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/9.png?raw=true" alt="" align="center" width="auto" height="auto" />
@@ -49,8 +49,8 @@ The goal of this script is to improve player interactions by offering a simple a
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/11.png?raw=true" alt="" align="center" width="auto" height="auto" />
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/12.png?raw=true" alt="" align="center" width="auto" height="auto" />
 
-# --- Inspect Person ---
+### --- Inspect Person ---
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/13.png?raw=true" alt="" align="center" width="auto" height="auto" />
 
-# --- Auto Do ---
+### --- Auto Do ---
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/14.png?raw=true" alt="" align="center" width="auto" height="auto" />
