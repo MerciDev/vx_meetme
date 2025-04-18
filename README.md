@@ -1,4 +1,4 @@
-<h1 align="center">VorteX Meet Me</h1>
+<h1 align="center">VorteX Meet Me (Free - QBCore)</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a> - <a href="#requirements">Requirements</a> - <a href="#images">Images</a></p>
 
 <img src="https://github.com/MerciDev/vx_meetme/blob/main/imgs/1.png?raw=true" alt="" align="center" width="auto" height="auto" />
